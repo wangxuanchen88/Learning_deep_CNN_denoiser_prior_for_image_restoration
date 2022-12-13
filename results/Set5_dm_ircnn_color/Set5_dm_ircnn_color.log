@@ -1,0 +1,12 @@
+22-11-07 17:47:07.793 : model_name:ircnn_color, image sigma:0.000, model sigma:0.000
+22-11-07 17:47:07.794 : Model path: model_zoo\ircnn_color.pth
+22-11-07 17:47:07.794 : data/test\Set5
+22-11-07 17:47:49.259 : model_name:ircnn_color, image sigma:0.000, model sigma:0.000
+22-11-07 17:47:49.259 : Model path: model_zoo\ircnn_color.pth
+22-11-07 17:47:49.259 : data/test\Set5
+22-11-07 17:47:51.653 : ---1--> baby_GT.bmp -- PSNR: 21.29dB
+22-11-07 17:47:51.861 : ---2--> bird_GT.bmp -- PSNR: 22.24dB
+22-11-07 17:47:52.023 : ---3--> butterfly_GT.bmp -- PSNR: 20.81dB
+22-11-07 17:47:52.197 : ---4--> head_GT.bmp -- PSNR: 22.56dB
+22-11-07 17:47:52.389 : ---5--> woman_GT.bmp -- PSNR: 21.82dB
+22-11-07 17:47:52.395 : ------> Average PSNR(RGB) of (Set5) is : 21.74 dB
